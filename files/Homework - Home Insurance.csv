@@ -1,0 +1,6 @@
+Provider Name,CampaignID,Phone Number,Redirect Link,Zipcode,Address,Cost Per Ad Click,TestColumn
+Home R' Us,HOME,1234567,homerus.com,"""78705""",Tim Street,5,testColumn
+HomeGuard,HOME1,1234567,homeguard.com,"""78705""",Tam Street,5.5,testColumn
+WeProtect,HOME2,1234567,weprotect.com,"""78705""",,6,testColumn
+HomesOnly,HOME3,,homesonly.com,"""78705""",6th Street,5,testColumn
+Homes4U,HOME5,1234567,homes4u.com,"""78705""",North Pole,6,testColumn

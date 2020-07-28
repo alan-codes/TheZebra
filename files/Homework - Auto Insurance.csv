@@ -1,0 +1,7 @@
+Provider Name,Zipcode,Cost Per Ad Click,Redirect Link,AccountId,Phone Number,Address,CampaignID
+Auto R' Us,"""78702""","""15.00""",autorus.com/auto1,4,8675309,Burton Street,AUTO1
+SafeAuto,"""78702""","""15.00""",safeauto.com/auto2,6,8675309,Bat Street,AUTO2
+OddAutos,"""78702""","""5.00""",oddautos.com/auto3,7,8675309,Tiger King Rd,AUTO3
+NoZip,,"""15.00""",nozip.com/auto6,8,8675309,Halloween Town,
+LowCostCoverage,"""78702""","""15.50""",lcc.com/auto4,0,4592222,Christmas Town,AUTO4
+PhoneAuto,78702,"""10.00""",phoneauto.com/auto5,9,,IDK Street,AUTO5

@@ -1,0 +1,9 @@
+# macOSX Files
+.DS_Store
+
+# package
+*.pyc
+
+# output dirs
+aggregated_data/
+logs/
